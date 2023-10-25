@@ -7,11 +7,11 @@ Desenvolvedor full-stack, programando muito com JS (vue, node e react principalm
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://doug-status.vercel.app/api?username=douglasgoncalves&show_icons=true&theme=radical&title=Status" />
+  <img height=200 align="center" src="https://doug-status.vercel.app/api?username=douglasgoncalves&show_icons=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://doug-status.vercel.app/api/top-langs/?username=douglasgoncalves&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=radical&card_width=320" />
+  <img height=200 align="center" src="https://doug-status.vercel.app/api/top-langs/?username=douglasgoncalves&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=dark&card_width=320" />
 </a>
 
 ---
