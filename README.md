@@ -9,13 +9,29 @@ Desenvolvedor full-stack, programando muito com JS (vue, node e react principalm
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://doug-status.vercel.app/api?username=douglasgoncalves&show_icons=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://doug-status.vercel.app/api/top-langs/?username=douglasgoncalves&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=dark&card_width=320" />
-</a>
+<table align="center" style="border: none; width: 100%;">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" src="https://doug-status.vercel.app/api?username=douglasgoncalves&show_icons=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasgoncalves&theme=dark" alt="Sequência de Contribuições" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img height="200" src="https://doug-status.vercel.app/api/top-langs/?username=douglasgoncalves&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=dark&card_width=320" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
