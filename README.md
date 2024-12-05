@@ -20,7 +20,7 @@ Desenvolvedor full-stack, programando muito com JS (vue, node e react principalm
   <tr>
     <td align="center">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasgoncalves&theme=dark" alt="Sequência de Contribuições" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasgoncalves&theme=dark&exclude_days=Sun%2CSat" alt="Sequência de Contribuições" />
       </a>
     </td>
   </tr>
